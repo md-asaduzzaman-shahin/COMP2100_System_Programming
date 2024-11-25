@@ -1,0 +1,18 @@
+The fields in each data record are as follows, in the order given.
+ 
+Field plough must be an unsigned integer in sixteen bits  
+Field truck must be a floating point number in thirty two bits  
+Field gate must be an integer in thirty two bits  
+Field pizzas must be a Boolean in eight bits  
+Field push must be an integer in thirty two bits  
+Field pail must be a fixed-length string of up to 11 characters (including one or more nulls)  
+Field aunt must be a character in eight bits  
+Field payment must be a Boolean in eight bits  
+Field wheel must be a floating point number in sixty four bits  
+Field roof must be a Boolean in eight bits  
+Field veil must be a Boolean in eight bits  
+Field fuel must be a Boolean in thirty two bits  
+Field growth must be an unsigned integer in eight bits  
+Field list must be an unsigned integer in eight bits  
+Field play must be a floating point number in sixty four bits  
+Field beam must be an unsigned integer in sixty four bits  

@@ -1,0 +1,2 @@
+plough, truck, gate, pizzas, push, pail, aunt, payment, wheel, roof, veil, fuel, growth, list, play, beam
+383, 0.006872, 3362, 0, ffffff74, sponge, 4, 0, -0.056740, 0, 0, 1, 97, 193, 15.436558, 31

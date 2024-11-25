@@ -1,0 +1,18 @@
+This text file shows the initial values for your data record.
+  
+The field 'plough' shall be the hexadecimal conversion of decimal number 383
+The field 'truck' shall be 0.006872
+The field 'gate' shall be the hexadecimal conversion of decimal number 3362
+The field 'pizzas' shall be 0
+The field 'push' shall be decimal -140
+The field 'pail' shall be the character string "sponge"
+The field 'aunt' shall be the single character '4'
+The field 'payment' shall be 0
+The field 'wheel' shall be -0.056740
+The field 'roof' shall be 0
+The field 'veil' shall be 0
+The field 'fuel' shall be 1
+The field 'growth' shall be decimal 97
+The field 'list' shall be decimal number 193 converted to octal notation
+The field 'play' shall be 15.436558
+The field 'beam' shall be decimal number 31 converted to octal notation

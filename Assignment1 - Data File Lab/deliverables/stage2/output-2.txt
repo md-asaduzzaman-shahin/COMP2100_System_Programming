@@ -1,0 +1,3 @@
+plough, truck, gate, pizzas, push, pail, aunt, payment, wheel, roof, veil, fuel, growth, list, play, beam
+2776, 0.000657, 239, 0, ffedb29f, minute, n, 0, -0.000003, 0, 0, 0, 196, 25, 0.000027, 881344557
+5, -0.000000, -56767641, 1, 7293, iron, 8, 1, 2.745437, 0, 1, 1, 3, 42, 1.255482, 5647621317

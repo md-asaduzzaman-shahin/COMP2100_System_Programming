@@ -1,0 +1,19 @@
+
+Sorting order (in order of precedence):
+ 
+wheel in descending order. 
+veil in ascending order. 
+play in ascending order. 
+roof in ascending order. 
+growth in descending order. 
+plough in descending order. 
+payment in descending order. 
+truck in ascending order. 
+fuel in ascending order. 
+list in ascending order. 
+aunt in ascending order. 
+beam in ascending order. 
+gate in descending order. 
+pail in descending order. 
+pizzas in descending order. 
+push in descending order. 
